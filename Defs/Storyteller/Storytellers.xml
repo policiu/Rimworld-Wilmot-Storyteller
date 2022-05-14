@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<StorytellerDef ParentName="BaseStoryteller" Name="WilmotStoryteller">
+		<defName>Wilmot</defName>
+		<label>Wilmot the Woeful</label>
+		<description>
+			Wilmot tells tales of good versus evil, of standing against a looming threat.
+			Protagonists will come up with a better plot later :)
+		</description>
+		<listOrder>52</listOrder>
+		<comps>
+			<li Class="WilmotBehavior" />
+		</comps>
+	</StorytellerDef>
+</Defs>

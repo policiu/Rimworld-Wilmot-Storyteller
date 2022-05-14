@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wilmot Storyteller", "Wilmot Storyteller.csproj", "{DFA6E790-D079-424B-B883-280F3AD8EDF2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ModConfig", "ModConfig", "{36979F61-8E33-424E-887F-0EE0EF3C585B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wilmot Storyteller Mod Folder", "..\Wilmot Storyteller Mod Folder\Wilmot Storyteller Mod Folder.csproj", "{16B76579-9B3F-4D12-8E2B-FA7DE5503281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA6E790-D079-424B-B883-280F3AD8EDF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA6E790-D079-424B-B883-280F3AD8EDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA6E790-D079-424B-B883-280F3AD8EDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA6E790-D079-424B-B883-280F3AD8EDF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B76579-9B3F-4D12-8E2B-FA7DE5503281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B76579-9B3F-4D12-8E2B-FA7DE5503281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {541A00E5-946B-41BC-9A4E-3F0A671CF5AA}
+	EndGlobalSection
+EndGlobal
